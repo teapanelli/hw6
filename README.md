@@ -11,4 +11,4 @@ there's a lot of stuff i need to figure out lmao
 
 - image in the background is a little 8-bit duck that quacks when you click it??? (GUNTHER QUACK NOISE)
 
-- 
+- ORZ
